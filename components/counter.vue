@@ -9,7 +9,7 @@
 <script>
 export default {
   date: function(){
-    title: 'Countup app'
+    title: 'Countup'
   }
 }
 </script>
